@@ -1,0 +1,6 @@
+{
+  "name": "Karma - Split Payment & Social Gamification",
+  "description": "App minimalista per split payment con La Ruota del Conto, Condono aptico e Karma Leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
